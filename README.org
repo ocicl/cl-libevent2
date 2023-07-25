@@ -1,0 +1,10 @@
+* cl-libevent2
+
+Low level Common Lisp bindings for Libevent2
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orthecreedence/cl-libevent2.git   |
+| commit  | 4cf7e90  |
+| systems | cl-libevent2 |
+|---------+-------------------------------------------|
+
